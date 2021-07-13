@@ -15,7 +15,7 @@ public class b5_2884 {
         sc.close();
 
         if(m >=45){
-            System.out.printf("%d %d\n",h,m-15);
+            System.out.printf("%d %d\n",h,m-45);
         }
         else{
             if(h==0)
