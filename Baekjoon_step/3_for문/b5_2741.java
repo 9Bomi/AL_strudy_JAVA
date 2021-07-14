@@ -4,11 +4,21 @@
 
 2741. N 찍기
 */
-import java.util.*;
+import java.io.*;
 
 public class b5_2741 {
-    public static void main() {
-        Scanner sc = new Scanner(System.in);
-        sc.close();
+    public static void main(String args[]) throws IOException {
+        BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
+	    BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+        int n = Integer.parseInt(bf.readLine());    //정수 입력 받을 때
+
+        for(int i=1;i<=n;i++){
+
+            bw.write(i+"\n");
+        }
+
+        bf.close();
+	    bw.flush();
+	    bw.close();
     }
 }
