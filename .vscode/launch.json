@@ -1,0 +1,224 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch b10_10430",
+            "request": "launch",
+            "mainClass": "b10_10430",
+            "projectName": "AL_strudy_JAVA_9e4a7098"
+        },
+        {
+            "type": "java",
+            "name": "Launch b10_2439",
+            "request": "launch",
+            "mainClass": "b10_2439",
+            "projectName": "AL_strudy_JAVA_9e4a7098"
+        },
+        {
+            "type": "java",
+            "name": "Launch b11_10871",
+            "request": "launch",
+            "mainClass": "b11_10871",
+            "projectName": "AL_strudy_JAVA_9e4a7098"
+        },
+        {
+            "type": "java",
+            "name": "Launch b11_2588",
+            "request": "launch",
+            "mainClass": "b11_2588",
+            "projectName": "AL_strudy_JAVA_9e4a7098"
+        },
+        {
+            "type": "java",
+            "name": "Launch b1_10952",
+            "request": "launch",
+            "mainClass": "b1_10952",
+            "projectName": "AL_strudy_JAVA_9e4a7098"
+        },
+        {
+            "type": "java",
+            "name": "Launch b1_1330",
+            "request": "launch",
+            "mainClass": "b1_1330",
+            "projectName": "AL_strudy_JAVA_9e4a7098"
+        },
+        {
+            "type": "java",
+            "name": "Launch b1_2557",
+            "request": "launch",
+            "mainClass": "b1_2557",
+            "projectName": "AL_strudy_JAVA_9e4a7098"
+        },
+        {
+            "type": "java",
+            "name": "Launch b1_2739",
+            "request": "launch",
+            "mainClass": "b1_2739",
+            "projectName": "AL_strudy_JAVA_9e4a7098"
+        },
+        {
+            "type": "java",
+            "name": "Launch b2_10718",
+            "request": "launch",
+            "mainClass": "b2_10718",
+            "projectName": "AL_strudy_JAVA_9e4a7098"
+        },
+        {
+            "type": "java",
+            "name": "Launch b2_10950",
+            "request": "launch",
+            "mainClass": "b2_10950",
+            "projectName": "AL_strudy_JAVA_9e4a7098"
+        },
+        {
+            "type": "java",
+            "name": "Launch b2_10951",
+            "request": "launch",
+            "mainClass": "b2_10951",
+            "projectName": "AL_strudy_JAVA_9e4a7098"
+        },
+        {
+            "type": "java",
+            "name": "Launch b2_9498",
+            "request": "launch",
+            "mainClass": "b2_9498",
+            "projectName": "AL_strudy_JAVA_9e4a7098"
+        },
+        {
+            "type": "java",
+            "name": "Launch b3_10171",
+            "request": "launch",
+            "mainClass": "b3_10171",
+            "projectName": "AL_strudy_JAVA_9e4a7098"
+        },
+        {
+            "type": "java",
+            "name": "Launch b3_1110",
+            "request": "launch",
+            "mainClass": "b3_1110",
+            "projectName": "AL_strudy_JAVA_9e4a7098"
+        },
+        {
+            "type": "java",
+            "name": "Launch b3_2753",
+            "request": "launch",
+            "mainClass": "b3_2753",
+            "projectName": "AL_strudy_JAVA_9e4a7098"
+        },
+        {
+            "type": "java",
+            "name": "Launch b3_8393",
+            "request": "launch",
+            "mainClass": "b3_8393",
+            "projectName": "AL_strudy_JAVA_9e4a7098"
+        },
+        {
+            "type": "java",
+            "name": "Launch b4_10172",
+            "request": "launch",
+            "mainClass": "b4_10172",
+            "projectName": "AL_strudy_JAVA_9e4a7098"
+        },
+        {
+            "type": "java",
+            "name": "Launch b4_14681",
+            "request": "launch",
+            "mainClass": "b4_14681",
+            "projectName": "AL_strudy_JAVA_9e4a7098"
+        },
+        {
+            "type": "java",
+            "name": "Launch b4_15552",
+            "request": "launch",
+            "mainClass": "b4_15552",
+            "projectName": "AL_strudy_JAVA_9e4a7098"
+        },
+        {
+            "type": "java",
+            "name": "Launch b5_1000",
+            "request": "launch",
+            "mainClass": "b5_1000",
+            "projectName": "AL_strudy_JAVA_9e4a7098"
+        },
+        {
+            "type": "java",
+            "name": "Launch b5_2741",
+            "request": "launch",
+            "mainClass": "b5_2741",
+            "projectName": "AL_strudy_JAVA_9e4a7098"
+        },
+        {
+            "type": "java",
+            "name": "Launch b5_2884",
+            "request": "launch",
+            "mainClass": "b5_2884",
+            "projectName": "AL_strudy_JAVA_9e4a7098"
+        },
+        {
+            "type": "java",
+            "name": "Launch b6_1001",
+            "request": "launch",
+            "mainClass": "b6_1001",
+            "projectName": "AL_strudy_JAVA_9e4a7098"
+        },
+        {
+            "type": "java",
+            "name": "Launch b6_2742",
+            "request": "launch",
+            "mainClass": "b6_2742",
+            "projectName": "AL_strudy_JAVA_9e4a7098"
+        },
+        {
+            "type": "java",
+            "name": "Launch b7_10998",
+            "request": "launch",
+            "mainClass": "b7_10998",
+            "projectName": "AL_strudy_JAVA_9e4a7098"
+        },
+        {
+            "type": "java",
+            "name": "Launch b7_11021",
+            "request": "launch",
+            "mainClass": "b7_11021",
+            "projectName": "AL_strudy_JAVA_9e4a7098"
+        },
+        {
+            "type": "java",
+            "name": "Launch b8_1008",
+            "request": "launch",
+            "mainClass": "b8_1008",
+            "projectName": "AL_strudy_JAVA_9e4a7098"
+        },
+        {
+            "type": "java",
+            "name": "Launch b8_11022",
+            "request": "launch",
+            "mainClass": "b8_11022",
+            "projectName": "AL_strudy_JAVA_9e4a7098"
+        },
+        {
+            "type": "java",
+            "name": "Launch b9_10869",
+            "request": "launch",
+            "mainClass": "b9_10869",
+            "projectName": "AL_strudy_JAVA_9e4a7098"
+        },
+        {
+            "type": "java",
+            "name": "Launch b9_2438",
+            "request": "launch",
+            "mainClass": "b9_2438",
+            "projectName": "AL_strudy_JAVA_9e4a7098"
+        }
+    ]
+}

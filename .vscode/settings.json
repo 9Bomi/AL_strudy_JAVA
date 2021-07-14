@@ -1,7 +1,8 @@
 {
     "java.project.sourcePaths": [
+        "Baekjoon_step/3_for문",
         "Baekjoon_step/2_if문",
         "Baekjoon_step/1_입출력과사칙연산",
-        "Baekjoon_step/3_for문"
+        "Baekjoon_step/4_while문"
     ]
 }
