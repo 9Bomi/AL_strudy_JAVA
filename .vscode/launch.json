@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch b7_4344",
+            "request": "launch",
+            "mainClass": "b7_4344",
+            "projectName": "AL_strudy_JAVA_9e4a7098"
+        },
+        {
+            "type": "java",
+            "name": "Launch b6_8958",
+            "request": "launch",
+            "mainClass": "b6_8958",
+            "projectName": "AL_strudy_JAVA_9e4a7098"
+        },
+        {
+            "type": "java",
+            "name": "Launch b5_1546",
+            "request": "launch",
+            "mainClass": "b5_1546",
+            "projectName": "AL_strudy_JAVA_9e4a7098"
+        },
+        {
+            "type": "java",
+            "name": "Launch b4_3052",
+            "request": "launch",
+            "mainClass": "b4_3052",
+            "projectName": "AL_strudy_JAVA_9e4a7098"
+        },
+        {
+            "type": "java",
+            "name": "Launch b3_2577",
+            "request": "launch",
+            "mainClass": "b3_2577",
+            "projectName": "AL_strudy_JAVA_9e4a7098"
+        },
+        {
+            "type": "java",
+            "name": "Launch b2_2562",
+            "request": "launch",
+            "mainClass": "b2_2562",
+            "projectName": "AL_strudy_JAVA_9e4a7098"
+        },
+        {
+            "type": "java",
+            "name": "Launch b1_10818",
+            "request": "launch",
+            "mainClass": "b1_10818",
+            "projectName": "AL_strudy_JAVA_9e4a7098"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
