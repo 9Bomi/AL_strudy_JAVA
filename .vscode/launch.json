@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch b10_1316",
+            "request": "launch",
+            "mainClass": "b10_1316",
+            "projectName": "AL_strudy_JAVA_9e4a7098"
+        },
+        {
+            "type": "java",
+            "name": "Launch b9_2941",
+            "request": "launch",
+            "mainClass": "b9_2941",
+            "projectName": "AL_strudy_JAVA_9e4a7098"
+        },
+        {
+            "type": "java",
             "name": "Launch b3_1065",
             "request": "launch",
             "mainClass": "b3_1065",
